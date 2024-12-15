@@ -1,2 +1,2 @@
-# refri-dev
- site teste de refrigerante
+# Projeto Refri
+ Site Animado de Refrigerante
